@@ -30,8 +30,8 @@ const Home = () => {
             </h1>
           </div>
           <div className="mb-2 pb-2 mt-2">
-            <p className="quotep_Dont mb-3"><FontAwesome className="fas fa-quote-left" />Don’t limit yourself. Many people limit themselves to what they think they can do. You can go as far as your mind lets you. What you believe, remember, you can achieve.<FontAwesome className="fas fa-quote-right" /></p>
-            <a target="_blank" style={{ textDecoration: "none", color: "#fff" }} className=" resumebtn primary-bgColour waves-effect waves-light" href="https://drive.google.com/file/d/1REG_reXZuA-NiI7zlQWAN12suf5H1A1a/view?usp=sharing"><FontAwesome className="fas fa-clone left mr-1" />
+            <p className="quotep_Dont mb-3"><FontAwesome className="fas fa-quote-left" />Dont limit yourself. Many people limit themselves to what they think they can do. You can go as far as your mind lets you. What you believe, remember, you can achieve.<FontAwesome className="fas fa-quote-right" /></p>
+            <a target="_blank" style={{ textDecoration: "none", color: "#fff" }} className=" resumebtn primary-bgColour waves-effect waves-light" href="https://drive.google.com/file/d/1REG_reXZuA-NiI7zlQWAN12suf5H1A1a/view?usp=sharing" rel="noreferrer"><FontAwesome className="fas fa-clone left mr-1" />
                              View Resume</a>
           </div></div>
       </div>
